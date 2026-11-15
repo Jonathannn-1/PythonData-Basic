@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nombre": "Ana Gomez",
+    "edad": 28,
+    "ciudad": "Bogotá",
+    "activo": true
+  },
+  {
+    "id": 2,
+    "nombre": "Luis Martinez",
+    "edad": 34,
+    "ciudad": "Medellín",
+    "activo": false
+  },
+  {
+    "id": 3,
+    "nombre": "Clara Ruiz",
+    "edad": 22,
+    "ciudad": "Cali",
+    "activo": true
+  }
+]
