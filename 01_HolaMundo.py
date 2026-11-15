@@ -17,3 +17,6 @@ print(type(1.87))
 nombre = 'peque'
 
 print(nombre)
+
+nombreNv = 'JonasMontes'
+print(nombreNv)
